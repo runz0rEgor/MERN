@@ -1,0 +1,5 @@
+{
+  "port": 8000,
+  "mongoURI": "mongodb+srv://runz0r:Labartded123@ticketsdb.mov4x.mongodb.net/TicketsDb?retryWrites=true&w=majority",
+  "data": "https://raw.githubusercontent.com/Tapify/public-code-test/master/web-ui-test/tickets.json"
+}
